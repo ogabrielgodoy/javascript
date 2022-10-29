@@ -1,3 +1,2 @@
-javascript
-
-Seja bem-vindo ao meu repositório de Javascript :)
+# php
+Seja bem-vindo ao meu repositório de Php :)
